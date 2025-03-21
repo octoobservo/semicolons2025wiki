@@ -27,5 +27,8 @@ We need to be able to create GitHub issues and pull requests
 ### Fine tune the RAG
 We need to fine tune the RAG to improve the accuracy of the potential fix
 
+### Make bugs in the application
+We need to create some bugs in the application to test the solution
+
 ### AI for QA/Support teams
 I think this one is optional. We can take this if we have extra time.
